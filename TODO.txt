@@ -1,0 +1,24 @@
+Beamforming To-Do List
+Delay-Sum Beamforming:
+#Fix the delay issue
+-Test to ensure the delay issue is fixed
+#Plot Directivity pattern for Delay-Sum Beamformer
+-Test Simulation of the Delay-Sum Beamformer for the weights/delays given in 
+ the Cohen presentation
+
+Filter-Sum Beamforming:
+#Identify a good example to use (umd link: superdirective beamforming)
+#Write a simulation for the example
+-Test the simulation of the example
+#Write a simulation for the directivity pattern
+-Test the simulation of the directivity pattern
+
+Sub-array Beamforming:
+-Write a simulation for a sub-array beamformer that achieves a similar/the same
+ directivity pattern for all frequency ranges determined by the sub-arrays
+-Test the simulation
+
+General Beamforming Simulation:
+#Find a way to model a source
+#Find a way to model the spatial setup, i.e. figure out how to incorporate the 
+ natural delay from the source to each microphone in the array.
